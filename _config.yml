@@ -16,4 +16,6 @@ title:		           "Portfolio Jekyll Theme"
 description:	       "Powered by Jekyll and GitHub Pages"
 author:              "Paul Le"
 
+url: https://yukyungoh.github.io/560/
+baseurl: ""
 remote_theme : LeNPaul/portfolio-jekyll-theme
