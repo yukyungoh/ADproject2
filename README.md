@@ -35,4 +35,8 @@
 ![슬라이드18](https://user-images.githubusercontent.com/54924772/87314865-c02d1880-c55e-11ea-99c1-755db04c506f.jpeg)
 ![슬라이드19](https://user-images.githubusercontent.com/54924772/87314875-c28f7280-c55e-11ea-8b59-699f73fb39de.jpeg)
 
+***
+### 프로그램 시연
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/54924772/87316975-5b26f200-c561-11ea-9e3c-756c3b45f445.gif)
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/54924772/87317288-c4a70080-c561-11ea-8250-bab860f2a0a7.gif)
